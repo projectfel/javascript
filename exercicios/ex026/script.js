@@ -39,3 +39,8 @@ function contagem() {
     
     saida.innerHTML += ` &#x1F3C1;`
 }
+
+/* let saida = document.getElementById('saida')
+    let n1 = Number(document.getElementById('fn1').value)
+    let n2 = Number(document.getElementById('fn2').value)
+    let cont */
